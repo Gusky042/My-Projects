@@ -113,7 +113,7 @@ To achieve higher accuracy (>70%), you would need:
 ## Model Details
 
 ```python
-Algorithm: Logistic Regression
+Algorithm: Logistic Regression and Random Forest Classifier
 Class Weight: Balanced (handles 51/49 class split)
 Preprocessing: StandardScaler + Median Imputation
 Validation: 80/20 train-test split with stratification
