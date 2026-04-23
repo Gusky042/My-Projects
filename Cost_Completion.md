@@ -1,4 +1,4 @@
-Here's a professional README.md file for your GitHub repository:
+
 
 ```markdown
 # Course Completion Prediction
