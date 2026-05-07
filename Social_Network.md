@@ -18,9 +18,9 @@ A machine learning model that predicts whether a user will purchase a product ba
 
 ### Performance by Class (Confusion Matrix)
 Predicted
-Bought Not Bought
-Actual Bought 48 4
-Not Bought 2 26
+     Purchase  No Purchase
+Actual   48      4
+          2     26
 
 text
 
