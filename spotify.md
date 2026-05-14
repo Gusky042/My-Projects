@@ -261,7 +261,7 @@ The K-Means clustering successfully identifies **5 distinct music categories** b
 
 ## Author
 
-[Your Name]
+Gusky
 
 ## License
 
